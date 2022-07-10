@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hao Xu
+title: 徐昊
 
 # Is this the primary user of the site?
 superuser: true
