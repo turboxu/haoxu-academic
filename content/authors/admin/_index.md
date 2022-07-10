@@ -1,38 +1,38 @@
 ---
 # Display name
-title: 徐昊
+title: Hao Xu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: 博士生
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 上海交通大学
+  - name: Shanghai Jiaotong University
     url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 我的研究兴趣包括企业创新、环境经济学、政策评估。
+bio: My research interests include corporate innovation, environmental regulation, and policy evaluation.
 
 # Interests to show in About widget
 interests:
-  - 企业创新
-  - 环境规制
-  - 政策评估
+  - Corporate Innovation
+  - Environmental Regulation
+  - Policy Evaluation
 
 # Education to show in About widget
 education:
   courses:
-    - course: 博士生-经济学
-      institution: 上海交通大学
+    - course: PhD Student in Economics
+      institution: Shanghai Jiaotong University
       year: -
-    - course: 硕士-经济学
-      institution: 上海大学
+    - course: Master of Economics
+      institution: Shanghai  University
       year: 2022
-    - course: 学士-能源经济
-      institution: 江苏大学
+    - course: Bachelor of Economics
+      institution: Jangsu University
       year: 2019
 
 # Social/Academic Networking
