@@ -27,7 +27,7 @@ education:
   courses:
     - course: PhD Student in Economics
       institution: Shanghai Jiaotong University
-      year: -
+      year: 2022
     - course: Master of Economics
       institution: Shanghai  University
       year: 2022
