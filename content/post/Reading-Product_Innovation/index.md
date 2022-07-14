@@ -1,5 +1,5 @@
 ---
-title: Reading1-Product Innovation, Product Diversification, and Firm Growth: Evidence from Japan’s Early ndustrialization
+title: Reading1-Product Innovation, Product Diversification, and Firm Growth： Evidence from Japan’s Early ndustrialization
 subtitle: Product Innovation, Product Diversification, and Firm Growth.
 
 # Summary for listings and search engines
