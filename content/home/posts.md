@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Posts
+title: 阅读
 subtitle:
 
 content:
