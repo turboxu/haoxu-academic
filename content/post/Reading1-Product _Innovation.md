@@ -6,7 +6,7 @@ date: 2022-07-14T09:38:22.907Z
 summary: "American Economic Review 2021, 111(12): 3795–3826. https://doi.org/10.1257/aer.20201656"
 draft: false
 featured: false
-authors:
+  authors:
 	- admin
   lastmod: 2022-07-14T15:30:00.000Z
   tags:
