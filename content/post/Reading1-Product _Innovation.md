@@ -3,6 +3,7 @@ title: "Reading1-Product Innovation, Product Diversification, and Firm
   Growth:   Evidence from Japan’s Early Industrialization"
 subtitle: Product Innovation, Product Diversification, and Firm Growth
 date: 2022-07-14T16:07:55.944Z
+summary: "发表于American Economic Review 2021, 111(12): 3795–3826，探讨产品创新影响企业增长的机制"
 authors:
   - admin
 tags:
