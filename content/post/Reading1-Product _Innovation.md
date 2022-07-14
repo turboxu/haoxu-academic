@@ -1,28 +1,15 @@
 ---
-title: "Reading1-Product Innovation, Product Diversification, and Firm Growth:
-  Evidence from Japan’s Early Industrialization"
-subtitle: Product Innovation, Product Diversification, and Firm Growth.
-date: 2022-07-14T09:38:22.907Z
-summary: "American Economic Review 2021, 111(12): 3795–3826. https://doi.org/10.1257/aer.20201656"
-draft: false
-featured: false
-  authors:
-	- admin
-  lastmod: 2022-07-14T15:30:00.000Z
-  tags:
-	- Academic
-  categories:
-	- 阅读笔记
-  projects: []
-  image:
-  caption: ""
-  focal_point: ""
-  placement: 2
-  preview_only: false
-  filename: featured.jpg
-
+title: "Reading1-Product Innovation, Product Diversification, and Firm
+  Growth:   Evidence from Japan’s Early Industrialization"
+subtitle: Product Innovation, Product Diversification, and Firm Growth
+date: 2022-07-14T16:07:55.944Z
+authors:
+  - admin
+tags:
+  - Academic
+categories:
+  - 阅读笔记
 ---
-
 ## 1. 文章简介
 
 现有研究对产品质量升级、产品多样化与企业发展背后的过程知之甚少。本文利用上世纪初日本棉纺织行业丰富的企业级别历史数据，结合作者巧妙的实证设计对这一问题做出了回答。这一数据的主要特点在于允许作者确定产品处于技术边界上还是技术边界内，并能直接观察到企业引入这些产品的行动。本文的核心在于探讨产品创新影响企业增长的机制。
