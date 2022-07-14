@@ -3,7 +3,7 @@ title: Reading1-Product Innovation, Product Diversification, and Firm Growth： 
 subtitle: Product Innovation, Product Diversification, and Firm Growth.
 
 # Summary for listings and search engines
-summary: American Economic Review 2021, 111(12): 3795–3826. https://doi.org/10.1257/aer.20201656
+summary: 'American Economic Review 2021, 111(12): 3795–3826. https://doi.org/10.1257/aer.20201656'
 
 # Link this post with a project
 projects: []
