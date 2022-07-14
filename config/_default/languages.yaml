@@ -12,11 +12,26 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: 徐昊主页
+  title: 徐昊
   params:
     description: 徐昊的主页
   menu:
     main:
       - name: 主页
         url: '#about'
-        weight: 1
+        weight: 10
+      - name: 帖子
+        url: '#posts'
+        weight: 20
+      - name: 项目
+        url: '#projects'
+        weight: 30
+      - name: 交流
+        url: '#talks'
+        weight: 40
+      - name: 发表
+        url: '#featured'
+        weight: 50
+      - name: 联系
+        url: '#contact'
+        weight: 60
