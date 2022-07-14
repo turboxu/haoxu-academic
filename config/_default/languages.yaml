@@ -31,4 +31,4 @@ en:
         weight: 40     
       - name: Contact
         url: '#contact'
-        weight: 60
+        weight: 50
