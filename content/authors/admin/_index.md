@@ -6,11 +6,11 @@ title: 徐昊
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: 博士研究生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Shanghai Jiaotong University
+  - name: 上海交通大学
     url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,21 +18,21 @@ bio: My research interests include corporate innovation, environmental regulatio
 
 # Interests to show in About widget
 interests:
-  - Corporate Innovation
-  - Environmental Regulation
-  - Policy Evaluation
+  - 企业创新
+  - 环境规制
+  - 政策评估
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Student in Economics
-      institution: Shanghai Jiaotong University
+    - course: 经济学博士生（2022秋季入学）
+      institution: 上海交通大学
       year: 2022
-    - course: Master of Economics
-      institution: Shanghai  University
+    - course: 经济学硕士
+      institution: 上海大学
       year: 2022
-    - course: Bachelor of Economics
-      institution: Jangsu University
+    - course: 经济学学士
+      institution: 江苏大学
       year: 2019
 
 # Social/Academic Networking
@@ -63,4 +63,4 @@ highlight_name: true
 
 ....
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} 下载我的 {{< staticref "uploads/demo_resume.pdf" "newtab" >}}简历{{< /staticref >}}.
