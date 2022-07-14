@@ -14,18 +14,18 @@ organizations:
     url: https://www.sjtu.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include corporate innovation, environmental regulation, and policy evaluation.
+bio: 我的研究方向包括企业创新、环境监管和政策评估。
 
 # Interests to show in About widget
-interests:
+研究兴趣:
   - 企业创新
   - 环境规制
   - 政策评估
 
 # Education to show in About widget
-education:
+教育经历:
   courses:
-    - course: 经济学博士生（2022秋季入学）
+    - course: 经济学博士生（2022年秋季入学）
       institution: 上海交通大学
       year: 2022
     - course: 经济学硕士
