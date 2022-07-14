@@ -4,34 +4,34 @@
 
 # Default language
 en:
-  languageCode: en-us
+  languageCode: zh-Hans
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+  #contentDir: content/en en-us
 
 # Uncomment the lines below to configure your website in a second language.
 zh:
-  languageCode: zh-Hans
-  contentDir: content/zh
-  title: 徐昊
+  languageCode: en-us
+  contentDir: content/en
+  title: Hao Xu
   params:
-    description: 徐昊的主页
+    description: Hao Xu
   menu:
     main:
-      - name: 主页
+      - name: Home
         url: '#about'
         weight: 10
-      - name: 帖子
+      - name: Post
         url: '#posts'
         weight: 20
-      - name: 项目
+      - name: Project
         url: '#projects'
         weight: 30
-      - name: 交流
+      - name: Talk
         url: '#talks'
         weight: 40
-      - name: 发表
+      - name: Publication
         url: '#featured'
         weight: 50
-      - name: 联系
+      - name: Contact
         url: '#contact'
         weight: 60
