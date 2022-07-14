@@ -15,7 +15,7 @@ date: '2022-07-14T15:30:00Z'
 lastmod: '2022-07-14T15:30:00Z'
 
 # Is this an unpublished draft?
-draft: true
+draft: false
 
 # Show this page in the Featured widget?
 featured: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Innovation**]
+  caption: ''
   focal_point: ''
   placement: 2
   preview_only: false
@@ -72,5 +72,3 @@ categories:
 - 共有4种捻线方式：
   S-twisst和Z-twist，没有本质的质量差异因此属于水平差异；
   doubled-yarn和gassing是两种更完善的工艺，生产的纱线品质优于S-twisst和Z-twist，故属于垂直差异，代表了更高的技术水平。其中gassing是最好的工艺，在1903年1月问世。
-
-<img title="" src="file:///C:/Users/xuhao/AppData/Roaming/marktext/images/8b345546b2633e5edfb7a9472805b86674b726f2.png" alt="" data-align="center">
