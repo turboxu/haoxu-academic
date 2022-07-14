@@ -1,44 +1,27 @@
 ---
-title: Reading1-Product Innovation, Product Diversification, and Firm Growth： Evidence from Japan’s Early ndustrialization
+title: "Reading1-Product Innovation, Product Diversification, and Firm Growth:
+  Evidence from Japan’s Early ndustrialization"
 subtitle: Product Innovation, Product Diversification, and Firm Growth.
-
-# Summary for listings and search engines
-summary: 'American Economic Review 2021, 111(12): 3795–3826. https://doi.org/10.1257/aer.20201656'
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: '2022-07-14T15:30:00Z'
-
-# Date updated
-lastmod: '2022-07-14T15:30:00Z'
-
-# Is this an unpublished draft?
+date: 2022-07-14T09:38:22.907Z
+summary: "American Economic Review 2021, 111(12): 3795–3826.
+  https://doi.org/10.1257/aer.20201656"
 draft: false
-
-# Show this page in the Featured widget?
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
-  caption: ''
-  focal_point: ''
-  placement: 2
-  preview_only: false
-
 authors:
   - admin
-
+lastmod: 2022-07-14T15:30:00Z
 tags:
   - Academic
-
 categories:
-  - 教程
-
+  - 阅读笔记
+projects: []
+image:
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: false
+  filename: featured.jpg
 ---
-
 ## 文章简介
 
 现有研究对产品质量升级、产品多样化与企业发展背后的过程知之甚少。本文利用上世纪初日本棉纺织行业丰富的企业级别历史数据，结合作者巧妙的实证设计对这一问题做出了回答。这一数据的主要特点在于允许作者确定产品处于技术边界上还是技术边界内，并能直接观察到企业引入这些产品的行动。本文的核心在于探讨产品创新影响企业增长的机制。
@@ -65,10 +48,10 @@ categories:
 
 ## 补充知识
 
-- 每磅纱线的长度，相同重量纱线越长则纱线越细，舒适度越高，质量也越高。以支数衡量，支数越高代表质量越高。
-
-- 制作工艺上的差异——twisting process
-
-- 共有4种捻线方式：
+* 每磅纱线的长度，相同重量纱线越长则纱线越细，舒适度越高，质量也越高。以支数衡量，支数越高代表质量越高。
+* 制作工艺上的差异——twisting process
+* 共有4种捻线方式：
   S-twisst和Z-twist，没有本质的质量差异因此属于水平差异；
   doubled-yarn和gassing是两种更完善的工艺，生产的纱线品质优于S-twisst和Z-twist，故属于垂直差异，代表了更高的技术水平。其中gassing是最好的工艺，在1903年1月问世。
+
+![](twist.png "捻线工艺示意图")
