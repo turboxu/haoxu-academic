@@ -17,13 +17,13 @@ organizations:
 bio: 我的研究方向包括企业创新、环境监管和政策评估。
 
 # Interests to show in About widget
-研究兴趣:
+interests:
   - 企业创新
   - 环境规制
   - 政策评估
 
 # Education to show in About widget
-教育经历:
+education:
   courses:
     - course: 经济学博士生（2022年秋季入学）
       institution: 上海交通大学
