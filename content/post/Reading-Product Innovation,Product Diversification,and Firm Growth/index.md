@@ -35,7 +35,7 @@ tags:
   - Academic
 
 categories:
-  - 文献阅读
+  - 教程
 
 ---
 
