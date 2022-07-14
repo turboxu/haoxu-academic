@@ -4,24 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 主页
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: 阅读
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: 项目
     url: '#projects'
     weight: 30
-  - name: Talks
-    url: '#talks'
+  - name: 最近发表
+    url: '#publications'
     weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Contact
+  - name: 联系
     url: '#contact'
-    weight: 60
+    weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
