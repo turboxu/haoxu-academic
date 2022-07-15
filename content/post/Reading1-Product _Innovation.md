@@ -3,7 +3,7 @@ title: "Reading1-Product Innovation, Product Diversification, and Firm
   Growth:   Evidence from Japan’s Early Industrialization"
 subtitle: Product Innovation, Product Diversification, and Firm Growth
 date: 2022-07-14T16:07:55.944Z
-summary: "发表于American Economic Review 2021, 111(12): 3795–3826，探讨产品创新影响企业增长的机制"
+summary: "这篇文章发表于American Economic Review 2021, 111(12): 3795–3826，探讨了产品创新影响企业增长的机制"
 authors:
   - admin
 tags:
@@ -56,4 +56,4 @@ categories:
 > a) 涉及高端商品
 > b) 该公司之前没有大规模生产过支数更高的产品
 
-**产品多样化：**无论新产品支数为多少，公司以前生产过支数更高的产品，则新产品属于产品多样化。
+<b>产品多样化：</b>无论新产品支数为多少，公司以前生产过支数更高的产品，则新产品属于产品多样化。
